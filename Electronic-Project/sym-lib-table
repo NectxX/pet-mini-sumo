@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "PET_Sumo_0")(type "KiCad")(uri "${KIPRJMOD}/PET_Sumo_0.kicad_sym")(options "")(descr ""))
+  (lib (name "BIBLIOTECA")(type "KiCad")(uri "${KIPRJMOD}/BIBLIOTECA.kicad_sym")(options "")(descr ""))
+)

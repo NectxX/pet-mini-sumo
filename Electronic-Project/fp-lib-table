@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Footprints_Sumo")(type "KiCad")(uri "${KIPRJMOD}/Footprints_Sumo.pretty")(options "")(descr ""))
+  (lib (name "SumoPET")(type "KiCad")(uri "${KIPRJMOD}/SumoPET.pretty")(options "")(descr ""))
+)
